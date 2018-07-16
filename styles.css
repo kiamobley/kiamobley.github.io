@@ -1,0 +1,24 @@
+h1{
+  font-size: 25px;
+  color: purple;
+}
+div {
+    height: 70px;
+    width: 50%;
+    background-color: powderblue;
+}
+
+body{
+  background-color: pink;
+}
+
+img {
+  width: 115px;
+  height: 88px;
+
+    padding-top: 50px;
+    padding-right: 60px;
+    padding-bottom: 80px;
+    padding-left: 80px;
+
+}
